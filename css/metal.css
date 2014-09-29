@@ -1,0 +1,50 @@
+/*
+Jason Olander
+Foundation 1, September 2014
+Assignment 05, Sorting
+*/
+
+body {
+	background-image: url('../img/fireguitar.gif'), url('../img/fireguitar.gif');
+	background-repeat: no-repeat;
+	background-position: center right, center left;
+	background-color: black;
+	color: white;
+  text-align: center;
+  margin: 10px auto 10px auto;
+}
+
+header {
+  font-family: fantasy;
+  font-size: 48px;
+  text-align: center;
+  margin: 20px auto auto auto;
+}
+ul {
+  list-style: none;
+  width: 375px;
+  margin: 10px auto 10px auto;
+}
+
+button {
+  margin: 25px auto auto auto;
+}
+
+li{
+  background-color: #383127;
+  border-color: Gray;
+  border-left-width: 3px;
+  border-right-width: 3px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 3px;
+}
+
+.swapping {
+  background-color: #FF4500;
+}
+
+
